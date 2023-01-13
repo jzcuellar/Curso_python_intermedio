@@ -18,7 +18,7 @@ def run():
 if __name__ == '__main__':
     run()
 
-#1 isnumeric devuelve True si valor es numero, else devuelve false
+#1 isnumeric devuelve True si el string es numero, else devuelve false
 # 
 #2 assert Evalúa una condicional, si esta se cumple continuamos con
 #  el flujo normal del python, si no se cumple eleva un error del 
